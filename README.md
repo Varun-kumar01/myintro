@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varun-kumar01
-- 👀 I’m interested in web-development and Graphic designing.
-- 🌱 I’m currently learning Backend-development 
+- 👀 I’m interested in web development and Graphic designing.
+- 🌱 I’m currently working on front-end projects and learning Backend-development.
 - 💞️ I’m looking to collaborate on open-source web-development projects.
 - 📫 How to reach me Mail="varunkumargangipelli@gmail.com", Linkedin="www.linkedin.com/in/varun-gangipelli-750241219"
